@@ -9,7 +9,15 @@
 ### My Recent Blogs posts
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
-
+- [Disable Zoom on pinch in mobile using HTML tag.](https://blog.kritikapattalam.com/disable-zoom-on-pinch-in-mobile-using-html-tag)
+- [How to add "SKIP TO MAIN CONTENT" to websites](https://blog.kritikapattalam.com/how-to-add-skip-to-main-content-to-websites)
+- [2 Uses of concat() method when working with arrays in JavaScript](https://blog.kritikapattalam.com/2-uses-of-concat-method-when-working-with-arrays-in-javascript)
+- [How to display content in multiple columns using CSS](https://blog.kritikapattalam.com/how-to-display-content-in-multiple-columns-using-css)
+- [4 Less used HTML tags and their uses](https://blog.kritikapattalam.com/4-less-used-html-tags-and-their-uses)
+- [2 Simple ways you can truncate text using CSS](https://blog.kritikapattalam.com/2-simple-ways-you-can-truncate-text-using-css)
+- [10 Things you can do in Chrome Developer Tools](https://blog.kritikapattalam.com/10-things-you-can-do-in-chrome-developer-tools)
+- [Getting Started with JavaScript - Ultimate Free Resources](https://blog.kritikapattalam.com/getting-started-with-javascript-ultimate-free-resources)
+- [Create a GitHub Profile README.md with widgets](https://blog.kritikapattalam.com/create-a-github-profile-readme-with-widgets)
 <!-- BLOG-POST-LIST:END -->
 
 
