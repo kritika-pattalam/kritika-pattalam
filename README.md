@@ -9,6 +9,7 @@
 ### My Recent Blogs posts
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
+- [Difference between var and let in JavaScript](https://blog.kritikapattalam.com/difference-between-var-and-let-in-javascript)
 - [How to add a favicon to a website in a single line of HTML?](https://blog.kritikapattalam.com/how-to-add-a-favicon-to-a-website-in-a-single-line-of-html)
 - [Drop CAP effect / Changing the style of the first letter in a paragraph using CSS.](https://blog.kritikapattalam.com/drop-cap-effect-changing-the-style-of-the-first-letter-in-a-paragraph-using-css)
 - [Different ways to remove an element at the end of the array using JavaScript](https://blog.kritikapattalam.com/different-ways-to-remove-an-element-at-the-end-of-the-array-using-javascript)
@@ -20,7 +21,6 @@
 - [2 Simple ways you can truncate text using CSS](https://blog.kritikapattalam.com/2-simple-ways-you-can-truncate-text-using-css)
 - [10 Things you can do in Chrome Developer Tools](https://blog.kritikapattalam.com/10-things-you-can-do-in-chrome-developer-tools)
 - [Getting Started with JavaScript - Ultimate Free Resources](https://blog.kritikapattalam.com/getting-started-with-javascript-ultimate-free-resources)
-- [Create a GitHub Profile README.md with widgets](https://blog.kritikapattalam.com/create-a-github-profile-readme-with-widgets)
 <!-- BLOG-POST-LIST:END -->
 
 
