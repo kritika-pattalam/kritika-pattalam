@@ -9,6 +9,7 @@
 ### My Recent Blogs posts
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
+- [Build a Simple Clock  using JavaScript](https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript)
 - [Do you know what "use strict" does in JavaScript ?](https://blog.kritikapattalam.com/use-strict-mode-in-javascript)
 - [Difference between delete and splice an element in an array using JavaScript](https://blog.kritikapattalam.com/difference-between-delete-and-splice-an-element-in-an-array-using-javascript)
 - [Difference between var and let in JavaScript](https://blog.kritikapattalam.com/difference-between-var-and-let-in-javascript)
@@ -20,7 +21,6 @@
 - [2 Uses of concat() method when working with arrays in JavaScript](https://blog.kritikapattalam.com/2-uses-of-concat-method-when-working-with-arrays-in-javascript)
 - [How to display content in multiple columns using CSS](https://blog.kritikapattalam.com/how-to-display-content-in-multiple-columns-using-css)
 - [4 Less used HTML tags and their uses](https://blog.kritikapattalam.com/4-less-used-html-tags-and-their-uses)
-- [2 Simple ways you can truncate text using CSS](https://blog.kritikapattalam.com/2-simple-ways-you-can-truncate-text-using-css)
 <!-- BLOG-POST-LIST:END -->
 
 
