@@ -9,6 +9,7 @@
 ### My Recent Blogs posts
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
+- [Build a Random Quote Generator using JavaScript](https://blog.kritikapattalam.com/build-a-random-quote-generator-using-javascript)
 - [Build a Simple Clock  using JavaScript](https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript)
 - [Do you know what "use strict" does in JavaScript ?](https://blog.kritikapattalam.com/use-strict-mode-in-javascript)
 - [Difference between delete and splice an element in an array using JavaScript](https://blog.kritikapattalam.com/difference-between-delete-and-splice-an-element-in-an-array-using-javascript)
@@ -20,7 +21,6 @@
 - [How to add "SKIP TO MAIN CONTENT" to websites](https://blog.kritikapattalam.com/how-to-add-skip-to-main-content-to-websites)
 - [2 Uses of concat() method when working with arrays in JavaScript](https://blog.kritikapattalam.com/2-uses-of-concat-method-when-working-with-arrays-in-javascript)
 - [How to display content in multiple columns using CSS](https://blog.kritikapattalam.com/how-to-display-content-in-multiple-columns-using-css)
-- [4 Less used HTML tags and their uses](https://blog.kritikapattalam.com/4-less-used-html-tags-and-their-uses)
 <!-- BLOG-POST-LIST:END -->
 
 
