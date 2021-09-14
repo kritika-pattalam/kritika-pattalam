@@ -9,7 +9,7 @@
 ### My Recent Blogs posts
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
-- [Random Quotes from Chuck Norris API](https://blog.kritikapattalam.com/random-quotes-from-chuck-norris-api)
+- [Display random quotes from Chuck Norris API](https://blog.kritikapattalam.com/random-quotes-from-chuck-norris-api)
 - [Build a Random Quote Generator using JavaScript](https://blog.kritikapattalam.com/build-a-random-quote-generator-using-javascript)
 - [Build a Simple Clock  using JavaScript](https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript)
 - [Do you know what "use strict" does in JavaScript ?](https://blog.kritikapattalam.com/use-strict-mode-in-javascript)
