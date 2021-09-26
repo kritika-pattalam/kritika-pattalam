@@ -9,6 +9,7 @@
 ### My Recent Blogs posts
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
+- [First Step to Learning Vue JS - 3](https://blog.kritikapattalam.com/first-step-to-learning-vue-js-3)
 - [Display random quotes from Chuck Norris API](https://blog.kritikapattalam.com/random-quotes-from-chuck-norris-api)
 - [Build a Random Quote Generator using JavaScript](https://blog.kritikapattalam.com/build-a-random-quote-generator-using-javascript)
 - [Build a Simple Clock  using JavaScript](https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript)
@@ -20,7 +21,6 @@
 - [Different ways to remove an element at the end of the array using JavaScript](https://blog.kritikapattalam.com/different-ways-to-remove-an-element-at-the-end-of-the-array-using-javascript)
 - [Disable Zoom on pinch in mobile using HTML tag.](https://blog.kritikapattalam.com/disable-zoom-on-pinch-in-mobile-using-html-tag)
 - [How to add "SKIP TO MAIN CONTENT" to websites](https://blog.kritikapattalam.com/how-to-add-skip-to-main-content-to-websites)
-- [2 Uses of concat() method when working with arrays in JavaScript](https://blog.kritikapattalam.com/2-uses-of-concat-method-when-working-with-arrays-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 
