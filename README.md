@@ -14,7 +14,7 @@
 - [Display random quotes from Chuck Norris API](https://blog.kritikapattalam.com/random-quotes-from-chuck-norris-api)
 - [Build a Random Quote Generator using JavaScript](https://blog.kritikapattalam.com/build-a-random-quote-generator-using-javascript)
 - [Build a Simple Clock  using JavaScript](https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript)
-- [Do you know what "use strict" does in JavaScript ?](https://blog.kritikapattalam.com/use-strict-mode-in-javascript)
+- [Do you know what &quot;use strict&quot; does in JavaScript ?](https://blog.kritikapattalam.com/use-strict-mode-in-javascript)
 - [Difference between delete and splice an element in an array using JavaScript](https://blog.kritikapattalam.com/difference-between-delete-and-splice-an-element-in-an-array-using-javascript)
 - [Difference between var and let in JavaScript](https://blog.kritikapattalam.com/difference-between-var-and-let-in-javascript)
 - [How to add a favicon to a website in a single line of HTML?](https://blog.kritikapattalam.com/how-to-add-a-favicon-to-a-website-in-a-single-line-of-html)
