@@ -9,6 +9,7 @@
 ### My Recent Blogs posts
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
+- [Do you use git? Then this is for you...](https://blog.kritikapattalam.com/different-ways-to-use-git-add)
 - [Create a DOWNLOAD link in a single line of HTML](https://blog.kritikapattalam.com/create-a-download-link-in-html)
 - [First Step to Learning Vue JS - 3](https://blog.kritikapattalam.com/first-step-to-learning-vue-js-3)
 - [Display random quotes from Chuck Norris API](https://blog.kritikapattalam.com/random-quotes-from-chuck-norris-api)
@@ -20,7 +21,6 @@
 - [How to add a favicon to a website in a single line of HTML?](https://blog.kritikapattalam.com/how-to-add-a-favicon-to-a-website-in-a-single-line-of-html)
 - [Drop CAP effect / Changing the style of the first letter in a paragraph using CSS.](https://blog.kritikapattalam.com/drop-cap-effect-changing-the-style-of-the-first-letter-in-a-paragraph-using-css)
 - [Different ways to remove an element at the end of the array using JavaScript](https://blog.kritikapattalam.com/different-ways-to-remove-an-element-at-the-end-of-the-array-using-javascript)
-- [Disable Zoom on pinch in mobile using HTML tag.](https://blog.kritikapattalam.com/disable-zoom-on-pinch-in-mobile-using-html-tag)
 <!-- BLOG-POST-LIST:END -->
 
 
