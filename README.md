@@ -9,6 +9,7 @@
 ### My Recent Blogs posts
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
+- [HTML Roadmap](https://blog.kritikapattalam.com/html-roadmap)
 - [Do you use git? Then this is for you...](https://blog.kritikapattalam.com/different-ways-to-use-git-add)
 - [Create a DOWNLOAD link in a single line of HTML](https://blog.kritikapattalam.com/create-a-download-link-in-html)
 - [First Step to Learning Vue JS - 3](https://blog.kritikapattalam.com/first-step-to-learning-vue-js-3)
@@ -20,7 +21,6 @@
 - [Difference between var and let in JavaScript](https://blog.kritikapattalam.com/difference-between-var-and-let-in-javascript)
 - [How to add a favicon to a website in a single line of HTML?](https://blog.kritikapattalam.com/how-to-add-a-favicon-to-a-website-in-a-single-line-of-html)
 - [Drop CAP effect / Changing the style of the first letter in a paragraph using CSS.](https://blog.kritikapattalam.com/drop-cap-effect-changing-the-style-of-the-first-letter-in-a-paragraph-using-css)
-- [Different ways to remove an element at the end of the array using JavaScript](https://blog.kritikapattalam.com/different-ways-to-remove-an-element-at-the-end-of-the-array-using-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 
